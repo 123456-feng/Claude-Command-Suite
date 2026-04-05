@@ -1,4 +1,4 @@
-# /svelte:storybook-troubleshoot
+# /svelte-storybook-troubleshoot
 
 Diagnose and fix common Storybook issues in SvelteKit projects, including build errors, module problems, and configuration issues.
 
