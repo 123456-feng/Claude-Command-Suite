@@ -1,4 +1,4 @@
-# /svelte:scaffold
+# /svelte-scaffold
 
 Scaffold new SvelteKit projects, features, or modules with best practices and optimal project structure.
 
