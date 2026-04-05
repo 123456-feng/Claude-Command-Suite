@@ -1,4 +1,4 @@
-# /svelte:migrate
+# /svelte-migrate
 
 Migrate Svelte/SvelteKit projects between versions, adopt new features like runes, and handle breaking changes.
 
