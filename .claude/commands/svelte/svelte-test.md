@@ -1,4 +1,4 @@
-# /svelte:test
+# /svelte-test
 
 Create comprehensive tests for Svelte components and SvelteKit routes, including unit tests, component tests, and E2E tests.
 
