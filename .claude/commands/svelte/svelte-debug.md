@@ -1,4 +1,4 @@
-# /svelte:debug
+# /svelte-debug
 
 Help debug Svelte and SvelteKit issues by analyzing error messages, stack traces, and common problems.
 
