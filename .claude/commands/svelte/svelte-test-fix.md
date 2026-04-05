@@ -1,4 +1,4 @@
-# /svelte:test-fix
+# /svelte-test-fix
 
 Troubleshoot and fix failing tests in Svelte/SvelteKit projects, including debugging test issues and resolving common testing problems.
 
